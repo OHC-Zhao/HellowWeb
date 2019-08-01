@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "c/helloWorld": [
+                "helloWorld/helloWorld.js"
+            ],
+            "c/HelloWeb": [
+                "../default/lwc/HelloWeb/HelloWeb.js"
+            ],
+            "c/helloWeb": [
+                "../default/lwc/helloWeb/helloWeb.js"
+            ]
+        }
+    }
+}
